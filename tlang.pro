@@ -27,7 +27,7 @@ SOURCES += \
 
 TRANSLATIONS += assets/lang/en.ts
 
-OTHER_FILES += assets/lang/en.ts
+OTHER_FILES += readme.md
 # Additional import path used to resolve QML modules in Qt Creator's code model
 QML_IMPORT_PATH =
 
